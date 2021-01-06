@@ -8,4 +8,5 @@ description: >
 twitter_username: jemimatabeart
 github_username: JemimaT
 
+show_excerpts: true
 theme: jekyll-theme-slate
