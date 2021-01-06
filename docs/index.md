@@ -2,7 +2,7 @@
 
 I am a postdoctoral research associate in the School of Mathematics at the University of Edinburgh. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting.
 
-![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in from of a white wall](JemimaT.github.io/assets/DSC_6604edit.jpg)
+![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in from of a white wall](JemimaT.github.io/docs/assets/DSC_6604edit.jpg)
 
 # Work and education history
 
