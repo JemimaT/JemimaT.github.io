@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Scientific Crafting"
 permalink: /scicraft/
+---
 
 I'm a keen crafter and have been experimenting with incorporating my research into craft projects. Here are some recent Sci Craft projects!
 
