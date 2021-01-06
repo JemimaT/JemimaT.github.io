@@ -2,7 +2,7 @@
 
 I am a postdoctoral research associate in the School of Mathematics at the University of Edinburgh. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting.
 
-<!--- ![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](../docs/assets/CompressedHeadshot.png) --->
+[Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](../docs/assets/CompressedHeadshot.png) 
 
 # Work and education history
 
@@ -38,4 +38,4 @@ Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichol
 
 I'm a co-organiser of the Communications in Numerical Linear Algebra series: find out more at our [website](https://sites.google.com/view/commnla/home) or catch up on previous talks on our [Youtube channel](https://www.youtube.com/channel/UCSlAhBOIY68IWLxpPUFHuSQ)
 
-Follow me on Twitter @jemimatabeart for updates and photos of my [crafting efforts](https://jemimat.github.io/scicraft/)
+Follow me on Twitter @jemimatabeart for updates and photos of my crafting efforts
