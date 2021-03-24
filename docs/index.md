@@ -14,7 +14,7 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 
 2011 - 2015: MMath at the University of Bath
 
-[Find my CV here](./assets/CV_JTabeart21.pdf)
+<!---[Find my CV here](./assets/CV_JTabeart21.pdf)---!>
 
 # Some recent papers
 
