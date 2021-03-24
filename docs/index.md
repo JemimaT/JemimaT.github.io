@@ -10,11 +10,13 @@ I am a postdoctoral research associate in the School of Mathematics at the Unive
 
 Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and Experimental Research in Mathematics at Brown University
 
-2015 - 2019: PhD at the University of Reading with Professor Sarah Dance, Dr Amos Lawless, Professor Nancy Nichols and Dr Joanne Waller. [Read my thesis here](http://centaur.reading.ac.uk/88830/) 
+2016 - 2019: PhD at the University of Reading with Professor Sarah Dance, Dr Amos Lawless, Professor Nancy Nichols and Dr Joanne Waller. [Read my thesis here](http://centaur.reading.ac.uk/88830/) 
 
-2011 - 2015: MMath at the University of Bath
+2015 - 2016: MRes at Imperial College, London and University of Reading as part of the Mathematics of Planet Earth Centre for Doctoral Training
 
-<!---[Find my CV here](./assets/CV_JTabeart21.pdf) --->
+2011 - 2015: MMath at the University of Bath with Study Year Abroad at Université Joseph Fourier (now Université Grenoble Alpes)
+
+[Find my CV here](./assets/CV_JTabeart21.pdf)
 
 # Some recent papers
 
