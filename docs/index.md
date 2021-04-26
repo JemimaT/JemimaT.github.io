@@ -42,4 +42,6 @@ Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichol
 
 I'm a co-organiser of the Communications in Numerical Linear Algebra series: find out more at our [website](https://sites.google.com/view/commnla/home) or catch up on previous talks on our [Youtube channel](https://www.youtube.com/channel/UCSlAhBOIY68IWLxpPUFHuSQ)
 
-Follow me on Twitter @jemimatabeart for updates and photos of my crafting efforts
+Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) for updates and photos of my crafting efforts
+
+Since moving to Scotland I've started Munro bagging - my latest stats are [here!](https://bit.ly/3xt6490)
