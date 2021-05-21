@@ -50,3 +50,5 @@ Watch me [present](https://youtu.be/TsnHNBHYgdo?t=1620) my most recent [pre-prin
 Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) for updates and photos of my crafting efforts
 
 Since moving to Scotland I've started Munro bagging - my latest stats are [here!](https://bit.ly/3xt6490)
+
+![Photo of Jemima standing in the hills in front of a dam/loch. She is wearing shorts, a woolly hat, an orange body warmer and hiking boots.](./assets/HillPhoto.jpeg) 
