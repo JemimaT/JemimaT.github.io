@@ -6,6 +6,8 @@ I am a postdoctoral research associate in the School of Mathematics at the Unive
 
 # Work and education history
 
+[Find my CV here](./assets/CV_JTabeart21.pdf)
+
 2019 - Present: PDRA in the School of Mathematics at The University of Edinburgh working with Dr John Pearson
 
 Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and Experimental Research in Mathematics at Brown University
@@ -16,11 +18,12 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 
 2011 - 2015: MMath at the University of Bath with Study Year Abroad at Université Joseph Fourier (now Université Grenoble Alpes)
 
-[Find my CV here](./assets/CV_JTabeart21.pdf)
-
 # Some recent papers
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
+
+### [Saddle point preconditioners for weak-constraint 4D-Var](https://arxiv.org/abs/2105.06975)
+Jemima M Tabeart and John W Pearson
 
 ### [The conditioning of least squares problems in preconditioned variational data assimilation](https://arxiv.org/abs/2010.08416)
 Jemima M Tabeart, Sarah L Dance, Amos S Lawless, Nancy K Nichols, Joanne A Waller
@@ -41,6 +44,8 @@ Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichol
 # Other activities
 
 I'm a co-organiser of the Communications in Numerical Linear Algebra series: find out more at our [website](https://sites.google.com/view/commnla/home) or catch up on previous talks on our [Youtube channel](https://www.youtube.com/channel/UCSlAhBOIY68IWLxpPUFHuSQ)
+
+Watch me [present](https://youtu.be/TsnHNBHYgdo?t=1620) my most recent [pre-print](https://arxiv.org/abs/2105.06975)
 
 Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) for updates and photos of my crafting efforts
 
