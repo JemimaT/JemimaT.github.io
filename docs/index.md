@@ -4,9 +4,17 @@ I am a postdoctoral research associate in the School of Mathematics at the Unive
 
 ![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](./assets/CompressedHeadshot.png) 
 
+# News
+
+Successful grant funding from UNA Europa - Seed Funding DIGITALIZED! for the research project "Tensor-based Optimal Control approaches for Deep learning - TOC4Deep"  [Find out more here](https://site.unibo.it/toc4deep/en)
+
+I'm co-organising a workshop in April 2022 in Edinburgh on Recent Advances in Numerical Linear Algebra: Talks will be posted on the website if you can't join us in person https://www.icms.org.uk/workshops/2022/recent-advances-numerical-linear-algebra-pdes-optimization-and-data-assimilation
+
 # Work and education history
 
 [Find my CV here](./assets/CV_JTabeart21.pdf)
+
+September 2022: I'll be joining the Mathematical Institute at the University of Oxford as a Hooke Fellow
 
 2019 - Present: PDRA in the School of Mathematics at The University of Edinburgh working with Dr John Pearson
 
@@ -22,20 +30,20 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
 
+### [Model Reduction of Linear Dynamical Systems via Balancing for Bayesian Inference](https://link.springer.com/article/10.1007/s10915-022-01798-8)
+Elizabeth Qian, Jemima M. Tabeart, Christopher Beattie, Serkan Gugercin, Jiahua Jiang, Peter R. Kramer and Akil Narayan 
+
 ### [Saddle point preconditioners for weak-constraint 4D-Var](https://arxiv.org/abs/2105.06975)
 Jemima M Tabeart and John W Pearson
 
 ### [The conditioning of least squares problems in preconditioned variational data assimilation](https://arxiv.org/abs/2010.08416)
 Jemima M Tabeart, Sarah L Dance, Amos S Lawless, Nancy K Nichols, Joanne A Waller
 
-
 ### [The impact of using reconditioned correlated observation‐error covariance matrices in the Met Office 1D‐Var system](https://doi.org/10.1002/qj.3741)
 Jemima M Tabeart, Sarah L Dance, Amos S Lawless, Stefano Migliorini, Nancy K Nichols, Fiona Smith, Joanne A Waller
 
-
 ### [Improving the condition number of estimated covariance matrices](https://doi.org/10.1080/16000870.2019.1696646)
 Jemima M Tabeart, Sarah L Dance, Amos S Lawless, Nancy K Nichols, Joanne A Waller
-
 
 ### [The conditioning of least‐squares problems in variational data assimilation](https://doi.org/10.1002/nla.2165)
 Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichols, Joanne A Waller
