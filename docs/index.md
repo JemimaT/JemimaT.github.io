@@ -1,22 +1,26 @@
 # About me
 
-I am a postdoctoral research associate in the School of Mathematics at the University of Edinburgh. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting.
+I am a Hooke Fellow in the Mathematical Institute at the University of Oxford. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting.
 
 ![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](./assets/CompressedHeadshot.png) 
 
 # News
 
-Successful grant funding from UNA Europa - Seed Funding DIGITALIZED! for the research project "Tensor-based Optimal Control approaches for Deep learning - TOC4Deep"  [Find out more here](https://site.unibo.it/toc4deep/en)
+I've just started a Hooke Fellowship in Oxford!
 
-I'm co-organising a workshop in April 2022 in Edinburgh on Recent Advances in Numerical Linear Algebra: Talks will be posted on the website if you can't join us in person https://www.icms.org.uk/workshops/2022/recent-advances-numerical-linear-algebra-pdes-optimization-and-data-assimilation
+Successful grant funding from UNA Europa - Seed Funding DIGITALIZED! for the research project "Tensor-based Optimal Control approaches for Deep learning - TOC4Deep"  [Find out more here](https://site.unibo.it/toc4deep/en). See the website for information on events, and videos from past workshop talks.
+
+I co-organised a workshop in April 2022 in Edinburgh on Recent Advances in Numerical Linear Algebra: Talks are on the website if you weren't able to join us in person https://www.icms.org.uk/workshops/2022/recent-advances-numerical-linear-algebra-pdes-optimization-and-data-assimilation
 
 # Work and education history
 
 [Find my CV here](./assets/CV_JTabeart21.pdf)
 
-September 2022: I'll be joining the Mathematical Institute at the University of Oxford as a Hooke Fellow
+October 2022 - Present: Fulford Non-Stipediary Fellow at Somerville College
 
-2019 - Present: PDRA in the School of Mathematics at The University of Edinburgh working with Dr John Pearson
+September 2022 - Present: Hooke Fellow in the Mathematical Institute at the University of Oxford in the Numerical Analysis group.
+
+2019 - August 2022: PDRA in the School of Mathematics at The University of Edinburgh working with Dr John W. Pearson
 
 Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and Experimental Research in Mathematics at Brown University
 
@@ -29,6 +33,9 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 # Some recent papers
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
+
+### [Stein-based preconditioners for weak-constraint 4D-var](https://arxiv.org/abs/2203.17184) 
+Davide Palitta and Jemima M. Tabeart
 
 ### [Model Reduction of Linear Dynamical Systems via Balancing for Bayesian Inference](https://link.springer.com/article/10.1007/s10915-022-01798-8)
 Elizabeth Qian, Jemima M. Tabeart, Christopher Beattie, Serkan Gugercin, Jiahua Jiang, Peter R. Kramer and Akil Narayan 
@@ -53,7 +60,7 @@ Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichol
 
 I'm a co-organiser of the Communications in Numerical Linear Algebra series: find out more at our [website](https://sites.google.com/view/commnla/home) or catch up on previous talks on our [Youtube channel](https://www.youtube.com/channel/UCSlAhBOIY68IWLxpPUFHuSQ)
 
-Watch me [present](https://youtu.be/TsnHNBHYgdo?t=1620) my most recent [pre-print](https://arxiv.org/abs/2105.06975)
+Watch me [present](https://youtu.be/TsnHNBHYgdo?t=1620) a recent [pre-print](https://arxiv.org/abs/2105.06975)
 
 Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) for updates and photos of my crafting efforts
 
