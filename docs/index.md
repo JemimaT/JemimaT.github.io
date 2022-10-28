@@ -1,6 +1,6 @@
 # About me
 
-I am a Hooke Fellow in the Mathematical Institute at the University of Oxford. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting.
+I am a Hooke Fellow in the Mathematical Institute at the University of Oxford. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at tabeart[at]maths[.]ox[.]ac[.]uk
 
 ![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](./assets/CompressedHeadshot.png) 
 
