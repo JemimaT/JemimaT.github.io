@@ -1,16 +1,16 @@
 # About me
 
-I am a Hooke Fellow in the Mathematical Institute at the University of Oxford. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at tabeart[at]maths[.]ox[.]ac[.]uk
+I am a Hooke Fellow in the Mathematical Institute at the University of Oxford. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. I currently co-organise the Data Science seminar series in Oxford. Alongside my research I'm interested in outreach and scientific crafting. Contact me at tabeart[at]maths[.]ox[.]ac[.]uk
 
 ![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](./assets/CompressedHeadshot.png) 
 
 # News
 
-I've just started a Hooke Fellowship in Oxford!
+[New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta just appeared in the Journal of Computational Physics.
 
-Successful grant funding from UNA Europa - Seed Funding DIGITALIZED! for the research project "Tensor-based Optimal Control approaches for Deep learning - TOC4Deep"  [Find out more here](https://site.unibo.it/toc4deep/en). See the website for information on events, and videos from past workshop talks.
+In October 2023 I will be moving to TU Eindhoven as an Assistant Professor!
 
-I co-organised a workshop in April 2022 in Edinburgh on Recent Advances in Numerical Linear Algebra: Talks are on the website if you weren't able to join us in person https://www.icms.org.uk/workshops/2022/recent-advances-numerical-linear-algebra-pdes-optimization-and-data-assimilation
+I've won a LMS Research in Pairs grant to fund research visits between Oxford and Edinburgh to continue working with John W. Pearson in Edinburgh.
 
 # Work and education history
 
@@ -34,7 +34,7 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
 
-### [Stein-based preconditioners for weak-constraint 4D-var](https://arxiv.org/abs/2203.17184) 
+### [Stein-based preconditioners for weak-constraint 4D-var]([https://arxiv.org/abs/2203.17184](https://doi.org/10.1016/j.jcp.2023.112068))  
 Davide Palitta and Jemima M. Tabeart
 
 ### [Model Reduction of Linear Dynamical Systems via Balancing for Bayesian Inference](https://link.springer.com/article/10.1007/s10915-022-01798-8)
