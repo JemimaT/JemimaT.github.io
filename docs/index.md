@@ -14,7 +14,7 @@ I've won a LMS Research in Pairs grant to fund research visits between Oxford an
 
 # Work and education history
 
-[Find my CV here](./assets/CV_JTabeart21.pdf)
+[Find my CV here](./assets/CV.pdf)
 
 October 2022 - Present: Fulford Non-Stipediary Fellow at Somerville College
 
