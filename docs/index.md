@@ -62,7 +62,7 @@ I'm a co-organiser of the Communications in Numerical Linear Algebra series: fin
 
 Watch me [present](https://youtu.be/TsnHNBHYgdo?t=1620) a recent [pre-print](https://arxiv.org/abs/2105.06975)
 
-Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) or [@jemimatabeart.bsky.social](bsky.app/profile/jemimatabeart.bsky.social) for updates and photos of my crafting efforts
+Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) or [@jemimatabeart.bsky.social](https://bsky.app/profile/jemimatabeart.bsky.social) for updates and photos of my crafting efforts
 
 I blog about my exploits via active travel and public transport at [Adventures of a Mathematician](https://lerabotproblems.wordpress.com)
 
