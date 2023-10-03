@@ -1,24 +1,24 @@
 # About me
 
-I am a Hooke Fellow in the Mathematical Institute at the University of Oxford. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. I currently co-organise the Data Science seminar series in Oxford. Alongside my research I'm interested in outreach and scientific crafting. Contact me at tabeart[at]maths[.]ox[.]ac[.]uk
+I am an Assistant Professor in the Computer Science group at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl
 
 ![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](./assets/CompressedHeadshot.png) 
 
 # News
+Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences.
 
 [New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta just appeared in the Journal of Computational Physics.
-
-In October 2023 I will be moving to TU Eindhoven as an Assistant Professor!
 
 I've won a LMS Research in Pairs grant to fund research visits between Oxford and Edinburgh to continue working with John W. Pearson in Edinburgh.
 
 # Work and education history
 
 [Find my CV here](./assets/CV.pdf)
+October 2023 - Present: Assistant Professor at TU Eindhoven
 
-October 2022 - Present: Fulford Non-Stipediary Fellow at Somerville College
+October 2022 - October 2023: Fulford Non-Stipediary Fellow at Somerville College
 
-September 2022 - Present: Hooke Fellow in the Mathematical Institute at the University of Oxford in the Numerical Analysis group.
+September 2022 - October 2023: Hooke Fellow in the Mathematical Institute at the University of Oxford in the Numerical Analysis group.
 
 2019 - August 2022: PDRA in the School of Mathematics at The University of Edinburgh working with Dr John W. Pearson
 
@@ -62,7 +62,9 @@ I'm a co-organiser of the Communications in Numerical Linear Algebra series: fin
 
 Watch me [present](https://youtu.be/TsnHNBHYgdo?t=1620) a recent [pre-print](https://arxiv.org/abs/2105.06975)
 
-Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) for updates and photos of my crafting efforts
+Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) or [@jemimatabeart.bsky.social](bsky.app/profile/jemimatabeart.bsky.social) for updates and photos of my crafting efforts
+
+I blog about my exploits via active travel and public transport at [Adventures of a Mathematician](https://lerabotproblems.wordpress.com)
 
 Since moving to Scotland I've started Munro bagging - my latest stats are [here!](https://bit.ly/3xt6490)
 
