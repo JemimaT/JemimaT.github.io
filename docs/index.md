@@ -5,7 +5,9 @@ I am an Assistant Professor in the Computer Science group at TU Eindhoven. My re
 ![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](./assets/CompressedHeadshot.png) 
 
 # News
-Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences.
+I will give a seminar as part of the Leiden/VU/Delft-seminar on 10th November 2023 at TU Delft. [Register here](https://www.aanmelder.nl/leiden_vu_delft_seminar) if you would like to attend
+
+Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://new-og.is.strath.ac.uk/science/mathematicsstatistics/pdvap/).
 
 [New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta just appeared in the Journal of Computational Physics.
 
