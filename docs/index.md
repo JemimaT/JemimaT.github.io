@@ -2,16 +2,17 @@
 
 I am an Assistant Professor in the Computer Science group at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl
 
-![Photo of Jemima - she is wearing a blue denim dress and a red cardigan, and she is standing in front of a white wall](./assets/CompressedHeadshot.png) 
+![Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred](./assets/Tabeart_Jemima_TUe_Headshot2.jpg) 
 
 # News
-I will give a seminar as part of the Leiden/VU/Delft-seminar on 10th November 2023 at TU Delft. [Register here](https://www.aanmelder.nl/leiden_vu_delft_seminar) if you would like to attend
 
 Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://new-og.is.strath.ac.uk/science/mathematicsstatistics/pdvap/).
 
 [New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta just appeared in the Journal of Computational Physics.
 
 I've won a LMS Research in Pairs grant to fund research visits between Oxford and Edinburgh to continue working with John W. Pearson in Edinburgh.
+
+I've recently started a new position at TU Eindhoven and moved to the Netherlands! I'm looking forward to new adventures on the mathematical and geographical fronts. 
 
 # Work and education history
 
