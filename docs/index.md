@@ -2,7 +2,7 @@
 
 I am an Assistant Professor in the Computer Science group at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl
 
-![Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred](./assets/Tabeart_Jemima_TUe_Headshot2.jpg) 
+![Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred](./assets/Tabeart_Jemima_TUe_Headshot2.jpg | width = 100) 
 
 # News
 
