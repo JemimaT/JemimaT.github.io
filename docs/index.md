@@ -7,7 +7,7 @@ I am an Assistant Professor in the Computer Science group at TU Eindhoven. My re
 
 # News
 
-Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://new-og.is.strath.ac.uk/science/mathematicsstatistics/pdvap/).
+Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/).
 
 [New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta just appeared in the Journal of Computational Physics.
 
