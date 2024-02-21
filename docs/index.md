@@ -6,10 +6,11 @@ I am an Assistant Professor in the Computer Science group at TU Eindhoven. My re
     
 
 # News
+**I'm hiring** PhD vacancy at TU/e working on *Using numerical linear algebra to exploit structure in data assimilation*. More details and apply [here](https://jobs.tue.nl/en/vacancy/phd-using-numerical-linear-algebra-to-exploit-structure-in-data-assimilation-1059695.html). Applications will be screened as they are submitted and the vacancy is live until 6th April 2024.
 
 Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/).
 
-[New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta just appeared in the Journal of Computational Physics.
+[New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta recently appeared in the Journal of Computational Physics.
 
 I've won a LMS Research in Pairs grant to fund research visits between Oxford and Edinburgh to continue working with John W. Pearson in Edinburgh.
 
