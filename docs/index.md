@@ -8,11 +8,9 @@ I am an Assistant Professor in the Computer Science group at TU Eindhoven. My re
 # News
 **I'm hiring** PhD vacancy at TU/e working on *Using numerical linear algebra to exploit structure in data assimilation*. More details and apply [here](https://jobs.tue.nl/en/vacancy/phd-using-numerical-linear-algebra-to-exploit-structure-in-data-assimilation-1059695.html). Applications will be screened as they are submitted and the vacancy is live until 6th April 2024.
 
+Paper accepted at Electronic Transactions on Numerical Analysis with John W. Pearson. Read the accepted version [here](https://arxiv.org/abs/2105.06975), published version to follow soon!
+
 Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/).
-
-[New paper](https://doi.org/10.1016/j.jcp.2023.112068) with Davide Palitta recently appeared in the Journal of Computational Physics.
-
-I've won a LMS Research in Pairs grant to fund research visits between Oxford and Edinburgh to continue working with John W. Pearson in Edinburgh.
 
 I've recently started a new position at TU Eindhoven and moved to the Netherlands! I'm looking forward to new adventures on the mathematical and geographical fronts. 
 
@@ -39,7 +37,7 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
 
-### [Stein-based preconditioners for weak-constraint 4D-var]([https://arxiv.org/abs/2203.17184](https://doi.org/10.1016/j.jcp.2023.112068))  
+### [Stein-based preconditioners for weak-constraint 4D-var](https://doi.org/10.1016/j.jcp.2023.112068)  
 Davide Palitta and Jemima M. Tabeart
 
 ### [Model Reduction of Linear Dynamical Systems via Balancing for Bayesian Inference](https://link.springer.com/article/10.1007/s10915-022-01798-8)
