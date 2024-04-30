@@ -6,9 +6,9 @@ I am an Assistant Professor in the Computational Science group within the Centre
     
 
 # News
-**I'm hiring** PhD vacancy at TU/e working on *Using numerical linear algebra to exploit structure in data assimilation*. More details and apply [here](https://jobs.tue.nl/en/vacancy/phd-using-numerical-linear-algebra-to-exploit-structure-in-data-assimilation-1059695.html). Applications will be screened as they are submitted and the vacancy is live until 6th April 2024.
+I've co-organised a mini-symposium on NLA for Inverse Problems with Applications to Data Assimilation and Imaging wiht Jennifer Scott at the SIAM LA meeting in Paris. Come listen to some great talks in MS69 and 76 on Wednesday.
 
-Paper accepted at Electronic Transactions on Numerical Analysis with John W. Pearson. Read the accepted version [here](https://arxiv.org/abs/2105.06975), published version to follow soon!
+Paper accepted at Electronic Transactions on Numerical Analysis with John W. Pearson. Read the published version [here](http://doi.org/10.1553/etna_vol60s197).
 
 Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/).
 
@@ -37,6 +37,9 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
 
+### [Saddle point preconditioners for weak-constraint 4D-Var](http://doi.org/10.1553/etna_vol60s197)
+Jemima M. Tabeart and John W. Pearson
+
 ### [Stein-based preconditioners for weak-constraint 4D-var](https://doi.org/10.1016/j.jcp.2023.112068)  
 Davide Palitta and Jemima M. Tabeart
 
@@ -58,17 +61,15 @@ Jemima M Tabeart, Sarah L Dance, Amos S Lawless, Nancy K Nichols, Joanne A Walle
 ### [The conditioning of least‐squares problems in variational data assimilation](https://doi.org/10.1002/nla.2165)
 Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichols, Joanne A Waller
 
+# Teaching
+2023--24
+2DBI00 -- Linear algebra and Applications (lecturer and instructor)
+2DRR00 -- Linear algebra and Applications (instructor)
+2DBA0 -- Matrices and differential equations (instructor)
 
 # Other activities
-
-I'm a co-organiser of the Communications in Numerical Linear Algebra series: find out more at our [website](https://sites.google.com/view/commnla/home) or catch up on previous talks on our [Youtube channel](https://www.youtube.com/channel/UCSlAhBOIY68IWLxpPUFHuSQ)
-
-Watch me [present](https://youtu.be/TsnHNBHYgdo?t=1620) a recent [pre-print](https://arxiv.org/abs/2105.06975)
-
-Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) or [@jemimatabeart.bsky.social](https://bsky.app/profile/jemimatabeart.bsky.social) for updates and photos of my crafting efforts
+Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) for infrequent updates and photos of my crafting efforts
 
 I blog about my exploits via active travel and public transport at [Adventures of a Mathematician](https://lerabotproblems.wordpress.com)
 
-Since moving to Scotland I've started Munro bagging - my latest stats are [here!](https://bit.ly/3xt6490)
-
-![Photo of Jemima standing in the hills in front of a dam/loch. She is wearing shorts, a woolly hat, an orange body warmer and hiking boots.](./assets/HillPhoto.jpeg) 
+I co-organised the Communications in Numerical Linear Algebra series: find out more at our [website](https://sites.google.com/view/commnla/home) or catch up on previous talks on our [Youtube channel](https://www.youtube.com/channel/UCSlAhBOIY68IWLxpPUFHuSQ)
