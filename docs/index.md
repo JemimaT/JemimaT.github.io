@@ -6,7 +6,7 @@ I am an Assistant Professor in the Computational Science group within the Centre
     
 
 # News
-I've co-organised a mini-symposium on NLA for Inverse Problems with Applications to Data Assimilation and Imaging wiht Jennifer Scott at the SIAM LA meeting in Paris. Come listen to some great talks in MS69 and 76 on Wednesday.
+I've co-organised a mini-symposium on NLA for Inverse Problems with Applications to Data Assimilation and Imaging wiht Jennifer Scott at the SIAM LA meeting in Paris. 
 
 Paper accepted at Electronic Transactions on Numerical Analysis with John W. Pearson. Read the published version [here](http://doi.org/10.1553/etna_vol60s197).
 
