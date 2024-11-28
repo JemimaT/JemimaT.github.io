@@ -1,18 +1,18 @@
 # About me
 
-I am an Assistant Professor in the Computational Science group within the Centre for Analysis, Scientific Computing and Applications at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl and find out more about the [Computational Science group here](https://casa.win.tue.nl/home/computational-science/)
+I am an Assistant Professor in the Computational Science group within the Centre for Analysis, Scientific Computing and Applications at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl and find out more about the [Computational Science group here](https://casa.win.tue.nl/home/computational-science/). I don't currently have funding for PhD students, but I have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
 
 <img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267"> <img src="./assets/PHOTO-2022-07-05-13-41-28.jpg" alt = "Photo of Jemima forwning at her computer" width = "200" height="267">
     
 
 # News
-I've co-organised a mini-symposium on NLA for Inverse Problems with Applications to Data Assimilation and Imaging wiht Jennifer Scott at the SIAM LA meeting in Paris. 
+Together with Victorita Dolean-Maini and Alexander Heinlein I am co-organising a research sememster programme at CWI in Autumn 2025. More information can be found [on the CWI website](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/)
+
+I have joined the 4TU.AMI SRI in Bridging Numerical Analysis and Machine Learning. More about the Strategic Research Initiative can be found [here](https://www.4tu.nl/ami/Research/sri-bridgingNAML/)
 
 Paper accepted at Electronic Transactions on Numerical Analysis with John W. Pearson. Read the published version [here](http://doi.org/10.1553/etna_vol60s197).
 
-Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/).
-
-I've recently started a new position at TU Eindhoven and moved to the Netherlands! I'm looking forward to new adventures on the mathematical and geographical fronts. 
+Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/). 
 
 # Work and education history
 
@@ -61,10 +61,17 @@ Jemima M Tabeart, Sarah L Dance, Amos S Lawless, Nancy K Nichols, Joanne A Walle
 ### [The conditioning of least‐squares problems in variational data assimilation](https://doi.org/10.1002/nla.2165)
 Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichols, Joanne A Waller
 
+# Supervision
+
+Hisham Elzayyadi (October 2024 -- present) PhD student 
+
 # Teaching
-2023--24
-2DBI00 -- Linear algebra and Applications (lecturer and instructor)
-2DRR00 -- Linear algebra and Applications (instructor)
+2024--25
+
+2DD40 -- Math 1 (instructor)
+
+2DRR00 -- Linear algebra and Applications (responsible lecturer and instructor)
+
 2DBA0 -- Matrices and differential equations (instructor)
 
 # Other activities
