@@ -6,11 +6,13 @@ I am an Assistant Professor in the Computational Science group within the Centre
     
 
 # News
-Together with Victorita Dolean-Maini and Alexander Heinlein I am co-organising a research sememster programme at CWI in Autumn 2025. More information can be found [on the CWI website](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/)
+Interested in better understanding the role of numerical linear algebra in data assimilation? Together with collaborators from the PVDAP network we have just posted an introductory paper aimed at those new to data assimilation [on arXiv](https://arxiv.org/abs/2506.09211).
+
+New preprint with collaborators in Edinburgh and CERFACS looking at approximating block alpha-circulant preconditioners for all-at-once diffusion-based covariance operators [on arXiV](https://arxiv.org/abs/2506.03947). For some non-technical insight into this project, I wrote a blog post for the [DARC blog](https://research.reading.ac.uk/met-darc/2025/06/18/how-computational-limitations-can-lead-to-fun-and-new-mathematics/) about how computational constraints can lead us to really interesting mathematical challenges.
+
+Together with Victorita Dolean-Maini and Alexander Heinlein I am co-organising a research sememster programme at CWI in Autumn 2025. More information can be found [on the CWI website](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/) where registration for the December workshop on Industrial applications of numerical analysis and machine learning is now open.
 
 I have joined the 4TU.AMI SRI in Bridging Numerical Analysis and Machine Learning. More about the Strategic Research Initiative can be found [here](https://www.4tu.nl/ami/Research/sri-bridgingNAML/)
-
-Paper accepted at Electronic Transactions on Numerical Analysis with John W. Pearson. Read the published version [here](http://doi.org/10.1553/etna_vol60s197).
 
 Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/). 
 
@@ -36,6 +38,12 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 # Some recent papers
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
+
+### [An Introduction to Solving the Least-Squares Problem in Variational Data Assimilation](https://arxiv.org/abs/2506.09211)
+Ieva Daužickaitė, Melina A. Freitag, Selime Gürol, Amos S. Lawless, Alison Ramage, Jennifer A. Scott, Jemima M. Tabeart
+
+### [Block Alpha-Circulant Preconditioners for All-at-Once Diffusion-Based Covariance Operators](https://arxiv.org/abs/2506.03947)
+Jemima M. Tabeart, Selime Gürol, John W. Pearson, Anthony T. Weaver
 
 ### [Saddle point preconditioners for weak-constraint 4D-Var](http://doi.org/10.1553/etna_vol60s197)
 Jemima M. Tabeart and John W. Pearson
@@ -66,6 +74,18 @@ Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichol
 Hisham Elzayyadi (October 2024 -- present) PhD student 
 
 # Teaching
+2025--26
+
+2WBB0 -- Calculus for computer scientists (lecturer)
+
+2DD40 -- Math 1 (instructor)
+
+2DME20/2MMD10 -- Nonlinear Optimization (instructor)
+
+JBM180 -- Linear algebra for data analysis (responsible lecturer)
+
+MasterMath -- Advanced numerical linear algebra with applications (co-lecturer)
+
 2024--25
 
 2DD40 -- Math 1 (instructor)
@@ -75,8 +95,6 @@ Hisham Elzayyadi (October 2024 -- present) PhD student
 2DBA0 -- Matrices and differential equations (instructor)
 
 # Other activities
-Follow me on Twitter [@jemimatabeart](https://twitter.com/jemimatabeart) for infrequent updates and photos of my crafting efforts
-
-I blog about my exploits via active travel and public transport at [Adventures of a Mathematician](https://lerabotproblems.wordpress.com)
-
-I co-organised the Communications in Numerical Linear Algebra series: find out more at our [website](https://sites.google.com/view/commnla/home) or catch up on previous talks on our [Youtube channel](https://www.youtube.com/channel/UCSlAhBOIY68IWLxpPUFHuSQ)
+I'm trying to fly less for work and personal travel, and I'm always happy to share ideas and route planning advice. I blog about my exploits via active travel and public transport at [Adventures of a Mathematician](https://lerabotproblems.wordpress.com). Some recent non-flight journeys include:
+Eindhoven - Toulouse - Edinburgh - Eindhoven
+Eindhoven to: Copenhagen, Vienna, Chemnitz, Geneva, Glasgow, Oxford
