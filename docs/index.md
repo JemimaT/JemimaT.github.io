@@ -2,24 +2,28 @@
 
 I am an Assistant Professor in the Computational Science group within the Centre for Analysis, Scientific Computing and Applications at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl and find out more about the [Computational Science group here](https://casa.win.tue.nl/home/computational-science/). I don't currently have funding for PhD students, but I have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
 
-<img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267"> <img src="./assets/PHOTO-2022-07-05-13-41-28.jpg" alt = "Photo of Jemima forwning at her computer" width = "200" height="267">
+<img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267"> <img src="./assets/PHOTO-2022-07-05-13-41-28.jpg" alt = "Photo of Jemima frowning at her computer" width = "200" height="267">
     
 
 # News
+Registration for Dutch Mastermath courses is now open. I'll be teaching a course on Advanced Numerical Linear Algebra with Applications (to Machine Learning and Data Assimilation) with Victorita Dolean-Maini. Find out more and enrol [here](https://elo.mastermath.nl/enrol/index.php?id=1249).
+
+I'm giving a plenary at the Preconditioning meeting, to be held at ICMS Edinburgh in May 2026. Find out more and submit a minisymposium [here](https://icms.ac.uk/activities/workshop/precond26/)
+
+I'm co-Chair of Section 17 on Applied and Linear Algebra at GAMM. Abstract submission has been extended to 8th January 2026, so please consider [submitting](https://jahrestagung.gamm.org/annual-meeting-2024/registration-abstract-submission/) a talk.
+
+I've been awarded a [CoSeC fellowship](https://www.cosec.ac.uk/what-is-cosec/cosec-fellowship-programme/). I'll be using the funds to organise a hackathon at Rutherford Appleton Laboratory in the UK to extend the functionality and test cases for variational data assimilation in [Firedrake](firedrakeproject.org). More details to follow! 
+
 Interested in better understanding the role of numerical linear algebra in data assimilation? Together with collaborators from the PVDAP network we have just posted an introductory paper aimed at those new to data assimilation [on arXiv](https://arxiv.org/abs/2506.09211).
 
 New preprint with collaborators in Edinburgh and CERFACS looking at approximating block alpha-circulant preconditioners for all-at-once diffusion-based covariance operators [on arXiV](https://arxiv.org/abs/2506.03947). For some non-technical insight into this project, I wrote a blog post for the [DARC blog](https://research.reading.ac.uk/met-darc/2025/06/18/how-computational-limitations-can-lead-to-fun-and-new-mathematics/) about how computational constraints can lead us to really interesting mathematical challenges.
 
-Together with Victorita Dolean-Maini and Alexander Heinlein I am co-organising a research sememster programme at CWI in Autumn 2025. More information can be found [on the CWI website](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/synergies-in-numerical-linear-algebra-and-machine-learning/) where registration for the December workshop on Industrial applications of numerical analysis and machine learning is now open.
-
 I have joined the 4TU.AMI SRI in Bridging Numerical Analysis and Machine Learning. More about the Strategic Research Initiative can be found [here](https://www.4tu.nl/ami/Research/sri-bridgingNAML/)
-
-Together with Alison Ramage, Amos S. Lawless, Selime Gurol, Jennifer Scott and Melina Freitag our network on Preconditioning for Variational Data Assimilation Problems was funded by the INI Network Support for Mathematical Sciences. Find out more [here](https://www.strath.ac.uk/science/mathematicsstatistics/pvdap/). 
 
 # Work and education history
 
 [Find my CV here](./assets/CV.pdf)
-October 2023 - Present: Assistant Professor at TU Eindhoven
+October 2023 - Present: Assistant Professor at TU Eindhoven. University teaching qualification awarded September 2025.
 
 October 2022 - October 2023: Fulford Non-Stipediary Fellow at Somerville College
 
