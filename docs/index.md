@@ -6,13 +6,13 @@ I am an Assistant Professor in the Computational Science group within the Centre
     
 
 # News
+I've been awarded a [CoSeC fellowship](https://www.cosec.ac.uk/what-is-cosec/cosec-fellowship-programme/). I'll be using the funds to organise a hackathon 8th - 10th April 2026 at Rutherford Appleton Laboratory in the UK to extend the functionality and test cases for variational data assimilation in [Firedrake](firedrakeproject.org). Registration is now open at [https://forms.office.com/e/s9ziymnCFm](https://forms.office.com/e/s9ziymnCFm) and further information can be found on the [event webpage](https://www.numerical.rl.ac.uk/events/hackathon-data-assimilation-in-firedrake/).
+
 Registration for Dutch Mastermath courses is now open. I'll be teaching a course on Advanced Numerical Linear Algebra with Applications (to Machine Learning and Data Assimilation) with Victorita Dolean-Maini. Find out more and enrol [here](https://elo.mastermath.nl/enrol/index.php?id=1249).
 
 I'm giving a plenary at the Preconditioning meeting, to be held at ICMS Edinburgh in May 2026. Find out more and submit a minisymposium [here](https://icms.ac.uk/activities/workshop/precond26/)
 
 I'm co-Chair of Section 17 on Applied and Linear Algebra at GAMM. Abstract submission has been extended to 8th January 2026, so please consider [submitting](https://jahrestagung.gamm.org/annual-meeting-2024/registration-abstract-submission/) a talk.
-
-I've been awarded a [CoSeC fellowship](https://www.cosec.ac.uk/what-is-cosec/cosec-fellowship-programme/). I'll be using the funds to organise a hackathon at Rutherford Appleton Laboratory in the UK to extend the functionality and test cases for variational data assimilation in [Firedrake](firedrakeproject.org). More details to follow! 
 
 Interested in better understanding the role of numerical linear algebra in data assimilation? Together with collaborators from the PVDAP network we have just posted an introductory paper aimed at those new to data assimilation [on arXiv](https://arxiv.org/abs/2506.09211).
 
