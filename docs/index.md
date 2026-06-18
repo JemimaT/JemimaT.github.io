@@ -1,6 +1,10 @@
 # About me
 
-I am an Assistant Professor in the Computational Science group within the Centre for Analysis, Scientific Computing and Applications at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl and find out more about the [Computational Science group here](https://casa.win.tue.nl/home/computational-science/). I don't currently have funding for PhD students, but I have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
+I am an Assistant Professor in the Computational Science group within the Centre for Analysis, Scientific Computing and Applications at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl and find out more about the [Computational Science group here](https://casa.win.tue.nl/home/computational-science/).
+
+I have a PhD position open with Prof Wouter Huberts from Biomedical Engineering to work on data assimilation, uncertainty quantification and hybrid physical-AI models for clinical decision making. Find out more information [here](https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-in-credible-hybrid-ai-mechanistic-models-for-clinical-decision-making-unveiling-the-untapped-potential-of-sensitivity-analysis-methods) -- deadline 31st August, but we may conduct interviews before the closing date.
+
+I also have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
 
 <img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267"> <img src="./assets/PHOTO-2022-07-05-13-41-28.jpg" alt = "Photo of Jemima frowning at her computer" width = "200" height="267">
     
@@ -22,7 +26,7 @@ I have joined the 4TU.AMI SRI in Bridging Numerical Analysis and Machine Learnin
 
 # Work and education history
 
-[Find my CV here](./assets/CV.pdf)
+[Find my CV here](./assets/JTabeartCVJune2026.pdf)
 October 2023 - Present: Assistant Professor at TU Eindhoven. University teaching qualification awarded September 2025.
 
 October 2022 - October 2023: Fulford Non-Stipediary Fellow at Somerville College
