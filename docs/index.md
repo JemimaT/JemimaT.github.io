@@ -2,14 +2,13 @@
 
 I am an Assistant Professor in the Computational Science group within the Centre for Analysis, Scientific Computing and Applications at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl and find out more about the [Computational Science group here](https://casa.win.tue.nl/home/computational-science/).
 
-<img src="./assets/wc4DVar.gif" alt = "Gif visualising the components of weak constraint 4D-Var" width = "267" height="213">
+<img src="./assets/wc4DVar.gif" alt = "Gif visualising the components of weak constraint 4D-Var" width = "534" height="426">
 
 I have a PhD position open with Prof Wouter Huberts from Biomedical Engineering to work on data assimilation, uncertainty quantification and hybrid physical-AI models for clinical decision making. Find out more information [here](https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-in-credible-hybrid-ai-mechanistic-models-for-clinical-decision-making-unveiling-the-untapped-potential-of-sensitivity-analysis-methods) -- deadline 31st August, but we may conduct interviews before the closing date.
 
 I also have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
 
-<img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267"> <img src="./assets/PHOTO-2022-07-05-13-41-28.jpg" alt = "Photo of Jemima frowning at her computer" width = "200" height="267">
-    
+<img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267">
 
 # News
 I've been awarded a [CoSeC fellowship](https://www.cosec.ac.uk/what-is-cosec/cosec-fellowship-programme/). I'll be using the funds to organise a hackathon 8th - 10th April 2026 at Rutherford Appleton Laboratory in the UK to extend the functionality and test cases for variational data assimilation in [Firedrake](firedrakeproject.org). Registration is now open at [https://forms.office.com/e/s9ziymnCFm](https://forms.office.com/e/s9ziymnCFm) and further information can be found on the [event webpage](https://www.numerical.rl.ac.uk/events/hackathon-data-assimilation-in-firedrake/).
