@@ -2,6 +2,8 @@
 
 I am an Assistant Professor in the Computational Science group within the Centre for Analysis, Scientific Computing and Applications at TU Eindhoven. My research interests include large scale numerical linear algebra (theory and applications), data assimilation, and treatment of covariance matrices. Alongside my research I'm interested in outreach and scientific crafting. Contact me at j[.]m[.]tabeart[at]tue[.]nl and find out more about the [Computational Science group here](https://casa.win.tue.nl/home/computational-science/).
 
+<img src="./assets/wc4DVar.gif" alt = "Gif visualising the components of weak constraint 4D-Var" width = "267" height="213">
+
 I have a PhD position open with Prof Wouter Huberts from Biomedical Engineering to work on data assimilation, uncertainty quantification and hybrid physical-AI models for clinical decision making. Find out more information [here](https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-in-credible-hybrid-ai-mechanistic-models-for-clinical-decision-making-unveiling-the-untapped-potential-of-sensitivity-analysis-methods) -- deadline 31st August, but we may conduct interviews before the closing date.
 
 I also have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
