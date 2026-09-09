@@ -4,26 +4,23 @@ I am an Assistant Professor in the Computational Science group within the Centre
 
 <img src="./assets/wc4DVar.gif" alt = "Gif visualising the components of weak constraint 4D-Var" width = "534" height="426"> <img src="./assets/IASI.jpg" alt = "Cross stitched correlation matrix with a colour bar" width = "426" height="426">
 
-I have a PhD position open with Prof Wouter Huberts from Biomedical Engineering to work on data assimilation, uncertainty quantification and hybrid physical-AI models for clinical decision making. Find out more information [here](https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-in-credible-hybrid-ai-mechanistic-models-for-clinical-decision-making-unveiling-the-untapped-potential-of-sensitivity-analysis-methods) -- deadline 31st August, but we may conduct interviews before the closing date.
+<img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267">
+
+# Open positions
+Together with Wouter Huberts from Biomedical Engineering, I was awarded funding from Eindhoven Artificial Intelligence Institute the project Hy-Credibility. The first round of recruitment is currently ongoing.
+
+As part of the funded Perspectif grant [Digital Dikes](https://www.digital-dikes.nl/Team/) Michiel Hochstenbach and are recruiting a postdoc on Data-driven and reduced-order models for dike monitoring and safety. Vacancy to appear on the TU Eindhoven website.
 
 I also have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
 
-<img src="./assets/Tabeart_Jemima_TUe_Headshot2.jpg" alt = "Photo of Jemima - she is smiling and wearing a blue gingham dress and a grey cardigan, and background behind her is blurred" width = "213" height="267"> <img src="./assets/Pearson 3.jpg" alt = "Photo of a group of about 30 people standing along a flight of stairs" width = "346" height="267"> <img src="./assets/working2.jpg" alt = "Photo of 3 people in front of a blackboard. Jemima is standing in the middle and smiling" width = "323" height="267">
-
 # News
-I've been awarded a [CoSeC fellowship](https://www.cosec.ac.uk/what-is-cosec/cosec-fellowship-programme/). I'll be using the funds to organise a hackathon 8th - 10th April 2026 at Rutherford Appleton Laboratory in the UK to extend the functionality and test cases for variational data assimilation in [Firedrake](firedrakeproject.org). Registration is now open at [https://forms.office.com/e/s9ziymnCFm](https://forms.office.com/e/s9ziymnCFm) and further information can be found on the [event webpage](https://www.numerical.rl.ac.uk/events/hackathon-data-assimilation-in-firedrake/).
+I've been appointed to the Eindhoven Young Academy of Engineering for the period September 2026 - 2030. 
 
-Registration for Dutch Mastermath courses is now open. I'll be teaching a course on Advanced Numerical Linear Algebra with Applications (to Machine Learning and Data Assimilation) with Victorita Dolean-Maini. Find out more and enrol [here](https://elo.mastermath.nl/enrol/index.php?id=1249).
+Our paper with collaborators in Edinburgh and CERFACS has been accepted at IMA Journal of Numerical Analysis. We approximate block alpha-circulant preconditioners for all-at-once diffusion-based covariance operators for problems coming from ocean data assimilation [on arXiV](https://arxiv.org/abs/2506.03947). For some non-technical insight into this project, I wrote a blog post for the [DARC blog](https://research.reading.ac.uk/met-darc/2025/06/18/how-computational-limitations-can-lead-to-fun-and-new-mathematics/) about how computational constraints can lead us to really interesting mathematical challenges.
 
-I'm giving a plenary at the Preconditioning meeting, to be held at ICMS Edinburgh in May 2026. Find out more and submit a minisymposium [here](https://icms.ac.uk/activities/workshop/precond26/)
+Registration for Dutch Mastermath courses is now open. I'm teaching a course on Advanced Numerical Linear Algebra with Applications (to Machine Learning and Data Assimilation) with Victorita Dolean-Maini. Find out more and enrol [here](https://elo.mastermath.nl/enrol/index.php?id=1249). The first half of the lecture notes for the course are available [on arXiv](https://arxiv.org/abs/2608.21234).
 
-I'm co-Chair of Section 17 on Applied and Linear Algebra at GAMM. Abstract submission has been extended to 8th January 2026, so please consider [submitting](https://jahrestagung.gamm.org/annual-meeting-2024/registration-abstract-submission/) a talk.
-
-Interested in better understanding the role of numerical linear algebra in data assimilation? Together with collaborators from the PVDAP network we have just posted an introductory paper aimed at those new to data assimilation [on arXiv](https://arxiv.org/abs/2506.09211).
-
-New preprint with collaborators in Edinburgh and CERFACS looking at approximating block alpha-circulant preconditioners for all-at-once diffusion-based covariance operators [on arXiV](https://arxiv.org/abs/2506.03947). For some non-technical insight into this project, I wrote a blog post for the [DARC blog](https://research.reading.ac.uk/met-darc/2025/06/18/how-computational-limitations-can-lead-to-fun-and-new-mathematics/) about how computational constraints can lead us to really interesting mathematical challenges.
-
-I have joined the 4TU.AMI SRI in Bridging Numerical Analysis and Machine Learning. More about the Strategic Research Initiative can be found [here](https://www.4tu.nl/ami/Research/sri-bridgingNAML/)
+Interested in better understanding the role of numerical linear algebra in data assimilation? Together with collaborators from the PVDAP network we have written an introductory paper aimed at those new to data assimilation [on arXiv](https://arxiv.org/abs/2506.09211), to appear in SIAM Review.
 
 # Work and education history
 
@@ -83,6 +80,14 @@ Jemima M Tabeart, Sarah L Dance, Stephen A Haben, Amos S Lawless, Nancy K Nichol
 Hisham Elzayyadi (October 2024 -- present) PhD student 
 
 # Teaching
+2026--27
+
+2BMC30 -- Numerical Linear Algebra (responsible lecturer)
+
+MasterMath -- Advanced numerical linear algebra with applications (co-lecturer)
+
+JBM180 -- Linear algebra for data analysis (responsible lecturer/instructor)
+
 2025--26
 
 2WBB0 -- Calculus for computer scientists (lecturer)
