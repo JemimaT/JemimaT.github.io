@@ -14,7 +14,9 @@ As part of the funded Perspectif grant [Digital Dikes](https://www.digital-dikes
 I also have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
 
 # News
-I've been appointed to the Eindhoven Young Academy of Engineering for the period September 2026 - 2030. 
+My PhD student Hisham Elzayyadi recently posted a preprint on [The Influence of the Cluster Point on Rounding Errors and Sensitivity in the Spectral Limited-Memory Preconditioner](https://arxiv.org/abs/2609.27652) 
+
+I've been appointed to the Eindhoven Young Academy of Engineering for the period September 2026 - 2030 and will be contributing to the Working Group on on mental wellbeing and climate anxiety.
 
 Our paper with collaborators in Edinburgh and CERFACS has been accepted at IMA Journal of Numerical Analysis. We approximate block alpha-circulant preconditioners for all-at-once diffusion-based covariance operators for problems coming from ocean data assimilation [on arXiV](https://arxiv.org/abs/2506.03947). For some non-technical insight into this project, I wrote a blog post for the [DARC blog](https://research.reading.ac.uk/met-darc/2025/06/18/how-computational-limitations-can-lead-to-fun-and-new-mathematics/) about how computational constraints can lead us to really interesting mathematical challenges.
 
@@ -24,8 +26,8 @@ Interested in better understanding the role of numerical linear algebra in data 
 
 # Work and education history
 
-[Find my CV here](./assets/JTabeartCVJune2026.pdf)
-October 2023 - Present: Assistant Professor at TU Eindhoven. University teaching qualification awarded September 2025.
+[Find my CV here](./assets/CV-2.pdf)
+October 2023 - Present: Assistant Professor at TU Eindhoven. University teaching qualification awarded September 2025. Promotion to UD1 October 2026.
 
 October 2022 - October 2023: Fulford Non-Stipediary Fellow at Somerville College
 
