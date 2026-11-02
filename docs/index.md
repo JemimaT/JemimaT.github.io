@@ -9,11 +9,13 @@ I am an Assistant Professor in the Computational Science group within the Centre
 # Open positions
 Together with Wouter Huberts from Biomedical Engineering, I was awarded funding from Eindhoven Artificial Intelligence Institute the project Hy-Credibility. The first round of recruitment is currently ongoing.
 
-As part of the funded Perspectif grant [Digital Dikes](https://www.digital-dikes.nl/Team/) Michiel Hochstenbach and are recruiting a postdoc on Data-driven and reduced-order models for dike monitoring and safety. Vacancy to appear on the TU Eindhoven website.
+As part of the funded Perspectif grant [Digital Dikes](https://www.digital-dikes.nl/Team/) Michiel Hochstenbach and I are recruiting a postdoc on Data-driven and reduced-order models for dike monitoring and safety. Vacancy to appear on the TU Eindhoven website.
 
 I also have openings to supervise Bachelor and Master Final Projects -- some of the topics I am offering can be found [here](https://casa.win.tue.nl/home/m/education/project-and-internships/).
 
 # News
+Recent preprint [fdvar: Automated parallel-in-time 4DVar data assimilation for any PDE using Firedrake](./assets/fdvar_arxiv.pdf) with Joshua Hope-Collins and David A. Ham describing our work to add variational data assimilation functionality to Firedrake. Try it for yourself at [https://www.firedrakeproject.org/fdvar/](https://www.firedrakeproject.org/fdvar/)
+
 My PhD student Hisham Elzayyadi recently posted a preprint on [The Influence of the Cluster Point on Rounding Errors and Sensitivity in the Spectral Limited-Memory Preconditioner](https://arxiv.org/abs/2609.27652) 
 
 I've been appointed to the Eindhoven Young Academy of Engineering for the period September 2026 - 2030 and will be contributing to the Working Group on on mental wellbeing and climate anxiety.
@@ -46,6 +48,12 @@ Spring 2020: Semester Postdoctoral Fellow at the Institute for Computational and
 # Some recent papers
 
 [My google scholar profile](https://scholar.google.com/citations?user=3CJhooAAAAAJ&hl=en)
+
+### [fdvar: Automated parallel-in-time 4DVar data assimilation for any PDE using Firedrake](./assets/fdvar_arxiv.pdf)
+Joshua Hope-Collins, Jemima M. Tabeart and David A. Ham
+
+### [The Influence of the Cluster Point on Rounding Errors and Sensitivity in the Spectral Limited-Memory Preconditioner](https://arxiv.org/abs/2609.27652) 
+Hisham Elzayyadi and Jemima M. Tabeart
 
 ### [An Introduction to Solving the Least-Squares Problem in Variational Data Assimilation](https://arxiv.org/abs/2506.09211)
 Ieva Daužickaitė, Melina A. Freitag, Selime Gürol, Amos S. Lawless, Alison Ramage, Jennifer A. Scott, Jemima M. Tabeart
